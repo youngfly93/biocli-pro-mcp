@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "biocli-pro": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "/ABSOLUTE/PATH/TO/biocli_pro_mcp",
+        "biocli-pro-mcp",
+        "--transport",
+        "stdio",
+        "--backend",
+        "auto"
+      ],
+      "env": {
+        "NCBI_EMAIL": "researcher@example.edu",
+        "NCBI_API_KEY": ""
+      }
+    }
+  }
+}

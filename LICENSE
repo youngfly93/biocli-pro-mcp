@@ -1,0 +1,35 @@
+Commercial License — biocli Pro MCP + Biomedical Agent Skills Kit (v1.0.0)
+Copyright (c) 2026 Yangfei (youngfly93). All rights reserved.
+
+1. GRANT OF LICENSE
+   Upon valid purchase via an authorized storefront (Creem.io or Mianbaoduo),
+   the Licensor grants you a non-exclusive, non-transferable, perpetual license to:
+   - Solo License ($29 / ¥99-¥149): Install and use the software, MCP server,
+     and Agent Skills across your personal workstations for academic, commercial,
+     and client-consulting research work.
+   - Pro Team / Lab License ($49 / ¥199): Install and use across up to 5 seats
+     within the same research laboratory, biotech team, or company.
+
+2. PERMITTED OUTPUTS
+   All research dossiers, methods appendices, manifests, plots, and reports
+   generated using biocli-pro-mcp and the included Skills belong 100% to you
+   and may be freely published in manuscripts, grants, or client deliverables.
+
+3. RESTRICTIONS
+   You may NOT:
+   - Redistribute, resell, sublicense, or publish the paid source bundle or
+     commercial Agent Skills publicly (e.g., uploading this paid bundle to a
+     public GitHub repository or file-sharing site).
+   - Remove copyright or attribution notices from the software package.
+
+4. RESEARCH USE & DISCLAIMER
+   This software queries public third-party biomedical databases (NCBI, UniProt,
+   Ensembl, Open Targets, KEGG, STRING, Enrichr, cBioPortal, GDSC) and provides
+   reproducible research workflows. It is strictly for research and analytical
+   use — NOT for clinical diagnosis, patient treatment decisions, or regulatory
+   medical device workflows. All biological interpretations and citations must
+   be independently verified by a qualified researcher prior to publication.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.

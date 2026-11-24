@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "biocli-pro": {
+      "command": "biocli-pro-mcp",
+      "args": ["--transport", "stdio", "--backend", "auto"],
+      "env": {
+        "NCBI_EMAIL": "researcher@example.edu",
+        "NCBI_API_KEY": "",
+        "BIOCLI_PRO_CACHE_DIR": ""
+      }
+    }
+  }
+}
